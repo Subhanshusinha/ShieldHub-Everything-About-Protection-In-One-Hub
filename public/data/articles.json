@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "How to spot phishing emails",
+    "desc": "Practical tips to detect phishing attempts in emails and links.",
+    "author": "Security Team",
+    "time": "2 hours ago",
+    "badge": "Guide",
+    "image": "/images/article1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Top 10 password mistakes",
+    "desc": "Common password mistakes and how to fix them.",
+    "author": "CyberSec Daily",
+    "time": "1 day ago",
+    "badge": "Tips",
+    "image": "/images/article2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Vulnerability scanner basics",
+    "desc": "Intro to vulnerability scanning for beginners.",
+    "author": "Admin",
+    "time": "3 days ago",
+    "badge": "Intro",
+    "image": "/images/article3.jpg"
+  }
+]

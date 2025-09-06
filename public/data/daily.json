@@ -1,0 +1,16 @@
+{
+  "word": {
+    "word": "Serendipity",
+    "pron": "/səˌrɛnˈdɪpəti/",
+    "def": "The occurrence and development of events by chance in a happy or beneficial way.",
+    "example": "Finding a $20 bill on the street was pure serendipity."
+  },
+  "quote": {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt"
+  },
+  "fact": {
+    "text": "The human brain contains approximately 86 billion neurons.",
+    "more": "This vast network allows us to think, feel, and create complex ideas."
+  }
+}
