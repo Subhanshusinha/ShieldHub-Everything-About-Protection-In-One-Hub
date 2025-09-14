@@ -1,12 +1,57 @@
-# React + Vite
+# 🛡️ ShieldHub – Everything About Protection in One Hub  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **full-stack cybersecurity platform** designed to provide users with a one-stop solution for online protection.  
+ShieldHub integrates **phishing detection, vulnerability scanning, password strength assessment, and cybersecurity articles** in one secure and user-friendly hub.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
 
-## Expanding the ESLint configuration
+- 🔐 **JWT Authentication** – Secure login, registration, and protected routes with session handling & API authorization.  
+- 🕵️ **Phishing Detection** – Detect suspicious/malicious URLs using intelligent scanning.  
+- 🛠️ **Vulnerability Scanner** – Analyze source code for potential security issues.  
+- 🔑 **Password Strength Checker** – Evaluate and suggest improvements for user-chosen passwords.  
+- 📖 **Cybersecurity Articles** – Stay updated with the latest in security awareness and practices.  
+- ⚡ **Multi-Language Code Analyzer** – Automated static analysis for **C++, JavaScript, HTML, and SQL**, improving detection efficiency by **30%**.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+
+<img width="816" height="917" alt="image" src="https://github.com/user-attachments/assets/e471be0f-8702-49cb-8443-b2ef483dd91c" />
+
+---
+
+## 🏗️ Tech Stack  
+
+- **Frontend**: React.js + Bootstrap  
+- **Backend**: Node.js + Express.js  
+- **Database**: MongoDB  
+- **Authentication**: JWT (JSON Web Token)  
+
+---
+
+## 📂 Project Structure  
+
+ShieldHub/
+│── backend/ # Node.js + Express server
+│ ├── models/ # MongoDB models
+│ ├── routes/ # API routes
+│ ├── middleware/ # JWT auth middleware
+│ └── server.js # Entry point
+│
+│── frontend/ # React.js + Bootstrap
+│ ├── src/
+│ │ ├── components/ # Reusable UI components
+│ │ ├── pages/ # Main pages (Dashboard, Auth, Tools, etc.)
+│ │ ├── services/ # API calls
+│ │ └── App.js
+│ └── package.json
+│
+│── README.md
+
+
+## Author
+
+Subhanshu Sinha
+
